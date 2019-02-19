@@ -1,0 +1,7 @@
+C:\Users\Maria\source\repos\LoginConsole\LoginConsole\bin\Debug\LoginConsole.exe.config
+C:\Users\Maria\source\repos\LoginConsole\LoginConsole\bin\Debug\LoginConsole.exe
+C:\Users\Maria\source\repos\LoginConsole\LoginConsole\bin\Debug\LoginConsole.pdb
+C:\Users\Maria\source\repos\LoginConsole\LoginConsole\obj\Debug\LoginConsole.csprojAssemblyReference.cache
+C:\Users\Maria\source\repos\LoginConsole\LoginConsole\obj\Debug\LoginConsole.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\LoginConsole\LoginConsole\obj\Debug\LoginConsole.exe
+C:\Users\Maria\source\repos\LoginConsole\LoginConsole\obj\Debug\LoginConsole.pdb
