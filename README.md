@@ -4,7 +4,8 @@ Essas consultas incluem:
 - Teste de login em usuários já existemtes
 
 No Main do projeto há um while para validar se o usuário deseja continuar executando comandos no banco, e um Switch-case para poder ser escolhido entre login ou cadastro.
-O cadastroO programa em questão faz consultas a um banco de dados SQL Server quantas vezes o usuário desejar.
+
+O programa em questão faz consultas a um banco de dados SQL Server quantas vezes o usuário desejar.
 Essas consultas incluem:
 - Cadastro de novos usuários na base
 - Teste de login em usuários já existentes
